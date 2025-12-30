@@ -41,6 +41,12 @@ YouTube视频下载器Pro/
 ### 1. 下载程序
 
 从GitHub下载最新版本的程序包并解压到任意目录。
+├── yt-dlp.exe               # YouTube下载核心工具
+├── ffmpeg.exe               # 视频处理工具
+├── ffprobe.exe              # 媒体信息分析工具
+以上三个文件需额外下载至项目根目录
+1.  **yt-dlp**: Download from [https://github.com/yt-dlp/yt-dlp/releases](https://github.com/yt-dlp/yt-dlp/releases)
+2.  **ffmpeg & ffprobe**: Download from [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html)
 
 ### 2. 启动程序
 
