@@ -13,7 +13,6 @@ YouTube视频下载器Pro/
 ├── ffprobe.exe              # 媒体信息分析工具
 ├── youtube.com_cookies.txt  # Cookies文件（可选）
 ├── README.md                # 项目说明文件
-├── README.txt               # 旧版说明文件
 └── _internal/               # 内部依赖文件夹
     ├── python/              # Python运行环境
     └── 其他依赖文件...
