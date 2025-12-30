@@ -1,0 +1,43 @@
+# Python 虚拟环境和依赖
+python/
+venv/
+env/
+lib/
+include/
+Scripts/
+
+# Python 缓存和编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.dll
+*.lib
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 可执行文件
+*.exe
+*.msi
+*.out
+*.app
+
+# 配置和数据文件
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+youtube.com_cookies.txt
+
+# IDE 和编辑器配置
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
